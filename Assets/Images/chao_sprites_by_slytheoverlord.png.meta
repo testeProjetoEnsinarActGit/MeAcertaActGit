@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 2de65572a0954424b9590a8d5be60ab7
+timeCreated: 1440898451
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chao_sprites_by_slytheoverlord_0
+    21300002: chao_sprites_by_slytheoverlord_1
+    21300004: chao_sprites_by_slytheoverlord_2
+    21300006: chao_sprites_by_slytheoverlord_3
+    21300008: chao_sprites_by_slytheoverlord_4
+    21300010: chao_sprites_by_slytheoverlord_5
+    21300012: chao_sprites_by_slytheoverlord_6
+    21300014: chao_sprites_by_slytheoverlord_7
+    21300016: chao_sprites_by_slytheoverlord_8
+    21300018: chao_sprites_by_slytheoverlord_9
+    21300020: chao_sprites_by_slytheoverlord_10
+    21300022: chao_sprites_by_slytheoverlord_11
+    21300024: chao_sprites_by_slytheoverlord_12
+    21300026: chao_sprites_by_slytheoverlord_13
+    21300028: chao_sprites_by_slytheoverlord_14
+    21300030: chao_sprites_by_slytheoverlord_15
+    21300032: chao_sprites_by_slytheoverlord_16
+    21300034: chao_sprites_by_slytheoverlord_17
+    21300036: chao_sprites_by_slytheoverlord_18
+    21300038: chao_sprites_by_slytheoverlord_19
+    21300040: chao_sprites_by_slytheoverlord_20
+    21300042: chao_sprites_by_slytheoverlord_21
+    21300044: chao_sprites_by_slytheoverlord_22
+    21300046: chao_sprites_by_slytheoverlord_23
+    21300048: chao_sprites_by_slytheoverlord_24
+    21300050: chao_sprites_by_slytheoverlord_25
+    21300052: chao_sprites_by_slytheoverlord_26
+    21300054: chao_sprites_by_slytheoverlord_27
+    21300056: chao_sprites_by_slytheoverlord_28
+    21300058: chao_sprites_by_slytheoverlord_29
+    21300060: chao_sprites_by_slytheoverlord_30
+    21300062: chao_sprites_by_slytheoverlord_31
+    21300064: chao_sprites_by_slytheoverlord_32
+    21300066: chao_sprites_by_slytheoverlord_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: chao_sprites_by_slytheoverlord_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 441
+        width: 176
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 361
+        width: 176
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 283
+        width: 176
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 203
+        width: 176
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 183
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 183
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 183
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 183
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 183
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 184
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 158
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 158
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 158
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 158
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 158
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_15
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 158
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 145
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_17
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 147
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 114
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 140
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_20
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 114
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 114
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_22
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 114
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_23
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 114
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_24
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 114
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_25
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 82
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 78
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_27
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 87
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 85
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_29
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 38
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_30
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 37
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_31
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 61
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_32
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 38
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chao_sprites_by_slytheoverlord_33
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 9
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
